@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEHLgn6bdfYEQ/profile-displaybackgroundimage-shrink_350_1400/B56ZiZq0xtG4Ac-/0/1754924799019?e=1758758400&v=beta&t=5UAeDHfbQhD8GWSNw9HZUFIaiuXIqymInrS3sV6iVPM">
+
 <h1 align="center">Hello 👋, I'm Md Faruk Hossain</h1>
 <h3 align="center">A passionate web developer & WordPress Theme Customization Bangladesh</h3>
 
